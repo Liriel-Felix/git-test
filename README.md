@@ -1,2 +1,5 @@
 # git-test
-The Odin Project
+Hello Odin!
+
+***
+Git Basics | The Odin Project 
